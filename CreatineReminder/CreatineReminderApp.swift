@@ -11,7 +11,7 @@ import SwiftUI
 struct CreatineReminderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
